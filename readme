@@ -1,0 +1,14 @@
+Use en el desarrollo php y el frameword larave.
+pasos para ejecutar el proyecto:
+
+1-descargar composer
+2-instalar xampp (windows) o instalar apache2 y mysqlserver en linux
+3-ubicar los archivos en la carpeta de apache
+4-dentro de la carpeta Prueba_tecnica abrir la consola y digitar composer update
+5-crear una base de datos llamada prueba_tecnica
+6-importar prueba_tecnica.sql
+7-en la raiz buscar el archivo .env buscar las variables DB_USERNAME y DB_PASSWORD y digitar el usuario y contraseña de mysql
+8- estabdo ubicado en la raiz abrimos la consola y digitamo php artisan serve
+9- abrimos el navegardo y entramos a la url http://127.0.0.1:8000/
+10 para ingresar a la prueba correo: alejandro_bautista_93@hotmail.com contraseña 111111
+
